@@ -1,6 +1,6 @@
 # organic-food
-simple website built only using html5, css3 & bootstrap 4 
 
+this is a simple website built only using html5, css3 & bootstrap 4 - Organic Food
 
 
 [Access My Project](https://jelsonjay.github.io/organic-food/)
